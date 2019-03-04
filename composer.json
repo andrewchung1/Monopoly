@@ -1,0 +1,11 @@
+{
+    "name": "htl3r/monopoly",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andrew Chung",
+            "email": "andrew.chung@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
